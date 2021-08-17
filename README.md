@@ -8,15 +8,9 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
   - [Future Improvements](#future-improvements)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -35,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Code](https://github.com/ShubhamPitale/Launch-countdown-timer)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://launchcountdowntimer-shubhampitale.netlify.app/)
 
 ### Built with
 

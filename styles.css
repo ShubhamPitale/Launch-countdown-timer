@@ -43,10 +43,11 @@ Header
 header {
   text-transform: uppercase;
   letter-spacing: var(--spacing);
-  width: 60%;
+  width: 90%;
   text-align: center;
   font-weight: 700;
   margin-top: 7rem;
+  margin-right: 2%;
 }
 .setbtn {
   margin-top: 1rem;
@@ -140,10 +141,12 @@ main {
 }
 .timer__days,
 .timer__hours,
-.timer__minutes,
-.timer__seconds {
+.timer__minutes {
   text-align: center;
   margin-right: 1rem;
+}
+.timer__seconds {
+  text-align: center;
 }
 .hours__display,
 .days__display,
@@ -156,7 +159,7 @@ main {
   position: relative;
 
   text-align: center;
-  font-size: 3.5rem;
+  font-size: 3rem;
 }
 
 .hours__title,
